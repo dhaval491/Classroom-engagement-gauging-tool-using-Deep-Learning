@@ -14,7 +14,7 @@ Sample Output where my teammate has eyes closed and I am focusing on the sceen
 Sample Output where both are focusing on the sceen
 ![Sample Output where both are focusing on the sceen](https://github.com/dhaval491/Classroom-engagement-gauging-tool-using-Deep-Learning/blob/main/Screenshot%20(268).png)
 
-Sample Output where my freind is looking away and I am focusing down to my notes, we made our network robust learn what is meant by  to focus (on scree and down to notes)
+Sample Output where my freind is looking away and I am focusing down to my notes, we made our network robust to learn what is meant by  to focus (on scree and down to notes)
 ![Sample Output where my freind is looking away and I am focusing down to my notes, we made our network robust learn what is meant by  to focus (on scree and down to notes)](https://github.com/dhaval491/Classroom-engagement-gauging-tool-using-Deep-Learning/blob/main/Screenshot%20(269).png)
 
 
